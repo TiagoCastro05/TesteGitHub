@@ -3,10 +3,7 @@ public class github {
 
         System.out.println("Hello World!");
 
-        for(int i=0; i<4;i++){
-            int resultado=0;
-            i+=resultado;
-        }
+       System.out.println("Gosto de testar coisas");
 
     }
 }
